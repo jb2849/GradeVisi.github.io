@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,"10-19",20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2016,W,CUST,562, ,001,"CURR ISS & THEOR","Balcaen, Philip",23,92.14,3.66,98,88,21,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,12
+UBCO,2016,W,CUST,562, ,OVERALL,"CURR ISS & THEOR"," ",23,92.14,3.66,98,88,21,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,12
+UBCO,2016,W,CUST,565, ,001,"CURR STUD - DIVR","Latta, Margaret",13,89.77,4.15,94,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,9
+UBCO,2016,W,CUST,565, ,OVERALL,"CURR STUD - DIVR"," ",13,89.77,4.15,94,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,9
